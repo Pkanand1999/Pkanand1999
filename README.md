@@ -1,7 +1,7 @@
 ![](https://github.com/Pkanand1999/test/blob/main/gallery%20-%20Email%20Header.png)
 <h1 align="center">Hi 👋, I'm Pankaj Kumar Anand</h1>
 <h3 align="center">A passionate full-Stack developer from India</h3>
-<img alt="coding" align="right" width="300" height="200" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img alt="coding" align="right" width="200" height="150" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pkanand1999&label=Profile%20views&color=0e75b6&style=flat" alt="pkanand1999" /> </p>
 
