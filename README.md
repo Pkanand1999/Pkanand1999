@@ -1,7 +1,7 @@
 ![](https://github.com/Pkanand1999/test/blob/main/gallery%20-%20Email%20Header.png)
 <h1 align="center">Hi 👋, I'm Pankaj Kumar Anand</h1>
 <h3 align="center">A passionate full-Stack developer from India</h3>
-<img alt="coding" align="center" width="600" height="300" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img alt="coding" align="center" width="900" height="300" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 # 💫 About Me:
 🌱 I’m currently working on the project.<br><br>📫 How to reach me pankajkranand@gmail.com<br><br>⚡ Fun fact I am funny😂
 
